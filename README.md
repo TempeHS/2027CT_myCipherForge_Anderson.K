@@ -72,7 +72,7 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-[YOUR NAME] - [YOUR SCHOOL] - 2026
+Anderson Kho - Tempe High School - 2026
 
 ---
 
