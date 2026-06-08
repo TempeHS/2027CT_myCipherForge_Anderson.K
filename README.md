@@ -21,7 +21,7 @@ CipherForge is an educational encryption system that demonstrates how real-world
 | 2 | Transposition | Reverses characters in blocks |
 | 3 | Key-Dependent | Uses password for variable shifting |
 | 4 | Noise Injection | Adds decoy characters |
-| 5 | Wild Card | [YOUR DESCRIPTION HERE] |
+| 5 | Wild Card | My phase 5 code will be reversal. Reversal works by reversing both the order of the sentence, but also the order of letters in a word.  |
 
 ## 🚀 Getting Started
 
